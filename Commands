@@ -1,0 +1,2 @@
+Command for removing commited file from github
+  git rm --cached -r <filenlocation>
